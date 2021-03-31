@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/ShowlandProductions/EmployeeDirectory/static/css/main.82719fce.chunk.css",
+    "main.js": "/ShowlandProductions/EmployeeDirectory/static/js/main.b1fc4921.chunk.js",
+    "main.js.map": "/ShowlandProductions/EmployeeDirectory/static/js/main.b1fc4921.chunk.js.map",
+    "runtime-main.js": "/ShowlandProductions/EmployeeDirectory/static/js/runtime-main.e087a331.js",
+    "runtime-main.js.map": "/ShowlandProductions/EmployeeDirectory/static/js/runtime-main.e087a331.js.map",
+    "static/js/2.16f9f7d5.chunk.js": "/ShowlandProductions/EmployeeDirectory/static/js/2.16f9f7d5.chunk.js",
+    "static/js/2.16f9f7d5.chunk.js.map": "/ShowlandProductions/EmployeeDirectory/static/js/2.16f9f7d5.chunk.js.map",
+    "static/js/3.7ed09fd7.chunk.js": "/ShowlandProductions/EmployeeDirectory/static/js/3.7ed09fd7.chunk.js",
+    "static/js/3.7ed09fd7.chunk.js.map": "/ShowlandProductions/EmployeeDirectory/static/js/3.7ed09fd7.chunk.js.map",
+    "index.html": "/ShowlandProductions/EmployeeDirectory/index.html",
+    "static/css/main.82719fce.chunk.css.map": "/ShowlandProductions/EmployeeDirectory/static/css/main.82719fce.chunk.css.map",
+    "static/js/2.16f9f7d5.chunk.js.LICENSE.txt": "/ShowlandProductions/EmployeeDirectory/static/js/2.16f9f7d5.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e087a331.js",
+    "static/js/2.16f9f7d5.chunk.js",
+    "static/css/main.82719fce.chunk.css",
+    "static/js/main.b1fc4921.chunk.js"
+  ]
+}
